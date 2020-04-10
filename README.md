@@ -1,10 +1,12 @@
 Knowlegde Management - UE17CS342
 
+
 Project Team:
-* Tejas S Sirigiri       - PES1201802376      
-* Hrushikesh H S         - PES1201802394
-* Sanjay S H             - PES1201802161
-* K Sasikiran Reddy      - PES1201701584
+
+    * Tejas S Sirigiri       - PES1201802376      
+    * Hrushikesh H S         - PES1201802394
+    * Sanjay S H             - PES1201802161
+    * K Sasikiran Reddy      - PES1201701584
 
 Overview
 
